@@ -12,3 +12,14 @@ for i in l:
         print('yes',end=' ')
     else:
         print('no',end=' ')
+        
+        
+output:
+        
+5   
+78
+70
+55
+34
+23
+yes yes no yes no
