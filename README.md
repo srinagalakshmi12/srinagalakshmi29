@@ -1,5 +1,5 @@
 # srinagalakshmi29
-sri
+
 n=int(input())
 l=[]
 d={}
